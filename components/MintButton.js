@@ -9,6 +9,7 @@ export default function MintButton(props) {
 	return (
 		<>
 			<div id='mint' className='relative'>
+		Joel
 				<ButtonText>
 					Price <span className='price'>{props.price}</span> ETH
 				</ButtonText>

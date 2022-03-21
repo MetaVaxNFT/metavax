@@ -22,13 +22,10 @@ export default function Hero() {
 					className='lg:grid-cols-2 auto-rows-auto grid grid-cols-1 gap-4'
 				>
 					<div>
-						<h3>Mint Two - 12 Febuary 2022</h3>
+						<h3>Pre Mint  - Sold out</h3>
+						<h3>White List Mint - 17/04/2022  ( Easter Sunday ) 10am UTC time</h3>
 						<p>
-							MetaVax vision and plan with the project is to create long term
-							utility by rewarding holders (tokenomics/passive income).
-							Longevity includes purchasing land in $SANDBOX and Web 3
-							integration into the MetaVerse. <br />
-							Humanitarian Aid Missions (game) and more....!
+							Covid 19 put Earth in to a pandemic, There WILL be a Metaverse version, Will you protect yourself? There will be a raging virus spreading through the Metaverse, Its time to get vaccinated before its too late!
 						</p>
 						<Countdownlg date='Febuary 12, 2022 22:00:00 GMT+0' />
 						<SocialList

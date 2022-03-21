@@ -172,7 +172,7 @@ export default function Mint(props) {
 			<CountDown date='Febuary 12, 2022 22:00:00 GMT+0'>
 				{address === undefined ? (
 					<div className='flex items-center justify-center max-w-xl mx-auto'>
-						<Button onClick={connect} txt='Connect to Mint' />
+						{/*<Button onClick={connect} txt='Connect to Mint' />*/}
 					</div>
 				) : publicSaleActive ? (
 					<MintButton

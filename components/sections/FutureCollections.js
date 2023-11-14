@@ -58,19 +58,11 @@ export default function FutureCollections() {
 						<p>
 							MetaClinic will be an interactive dashboard for the MetaVax
 							ecosystem within our website. This is where holders will
-							stake/view their MetaVax NFTs.
+							view and interact with their MetaVax NFTs.
 						</p>
 						<div className='lg:grid-cols-2 auto-rows-auto grid grid-cols-1 gap-6'>
 							<div>
-								<p className='font-bold'>
-									Some core features of the MetaClinc include:
-								</p>
-								<ul className='text-white list-disc list-inside'>
-									
-									<li>Research level of your Booster Shot</li>
-									<li>Research level of your Booster Shot</li>
 								
-									<li>Research level of your Booster Shot</li>
 
 
 
@@ -84,7 +76,6 @@ export default function FutureCollections() {
 								
 								
 								<Button
-									<div className='flex-center flex-col'>
 									txt='whitepaper'
 									link='https://metavax-nft.gitbook.io/metavax/metavax-overview/roadmap'
 								/>

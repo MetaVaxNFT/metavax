@@ -63,14 +63,6 @@ export default function FutureCollections() {
 						<div className='lg:grid-cols-2 auto-rows-auto grid grid-cols-1 gap-6'>
 							<div>
 								
-
-
-
-								
-								</ul>
-							
-								
-								
 								</div>
 							<div className='flex-center flex-col'>
 								

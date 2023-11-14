@@ -66,11 +66,9 @@ export default function FutureCollections() {
 									Some core features of the MetaClinc include:
 								</p>
 								<ul className='text-white list-disc list-inside'>
-									<li>Breakdown of your $VAX generation</li>
+									
 									<li>Research level of your Booster Shot</li>
-									<li>$VAX multipler (based of rarity)</li>
-									<li>Visiting other clinics</li>
-									<li>Marketplace/Staking locker</li>
+									
 								</ul>
 							</div>
 							<div className='flex-center flex-col'>

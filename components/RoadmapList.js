@@ -39,66 +39,7 @@ export default function RoadmapList() {
 				<div className='absolute z-0'>
 					<Image src={squid} alt='Virus' />
 				</div>
-				<RoadmapTile
-					estdate='December 2021'
-					date='18/12/2021'
-					list={[
-						"Release of first mint phase 1/7 (200 collection)",
-						"Pre-sale/Public Sale Successful - SOLD OUT",
-					]}
-					done
-				/>
-
-				<RoadmapTile
-					estdate='January 2022'
-					date='Early'
-					list={[
-						"Mint phase 1 minting closed",
-						"Whitelist spots re-opened for Mint phase 2",
-						"Website design revamped/updated",
-						"Whitepaper finalized and published",
-					]}
-					done
-				/>
-
-				<RoadmapTile
-					estdate='Febuary 2022'
-					date='TBA'
-					list={[
-						"Release of Mint phase 2/7 (200 collection",
-						"Pre-sale/Public Sale - 12 Feb 2022",
-						"Airdrops + $2,000 USD Raffle to one MetaVax Holder",
-					]}
-				/>
-
-				<RoadmapTile
-					estdate='March 2022'
-					date='Early'
-					list={["Release of Mint Phase 3/7 (300 Collection)"]}
-				/>
-
-				<RoadmapTile
-					estdate='March 2022'
-					date='Late'
-					list={["Release of Mint Phase 4/7 (400 Collection)"]}
-				/>
-
-				<RoadmapTile
-					estdate='April 2022'
-					date='Early'
-					list={["Release of Mint Phase 5/7 (500 Collection)"]}
-				/>
-
-				<RoadmapTile
-					estdate='April 2022'
-					date='Late'
-					list={["Release of Mint Phase 6/7 (600 Collection)"]}
-				/>
-
-				<RoadmapTile
-					estdate='May 2022'
-					date='2022'
-					list={["Release of Mint Phase 7/7 (700 Collection)"]}
+				
 				/>
 
 				<h3 className='lg:text-[10rem] uppercase lg:block drop-shadow-none opacity-25 -right-[65%] absolute bottom-[25%] hidden transform -rotate-90'>

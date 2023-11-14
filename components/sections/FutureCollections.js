@@ -68,7 +68,13 @@ export default function FutureCollections() {
 								<ul className='text-white list-disc list-inside'>
 									
 									<li>Research level of your Booster Shot</li>
-									
+									<li>Research level of your Booster Shot</li>
+								
+									<li>Research level of your Booster Shot</li>
+
+
+
+								
 								</ul>
 							
 								

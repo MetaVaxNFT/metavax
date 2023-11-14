@@ -81,7 +81,10 @@ export default function FutureCollections() {
 								
 								</div>
 							<div className='flex-center flex-col'>
+								
+								
 								<Button
+									<div className='flex-center flex-col'>
 									txt='whitepaper'
 									link='https://metavax-nft.gitbook.io/metavax/metavax-overview/roadmap'
 								/>

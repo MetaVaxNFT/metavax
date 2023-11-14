@@ -39,8 +39,7 @@ export default function RoadmapList() {
 				<div className='absolute z-0'>
 					<Image src={squid} alt='Virus' />
 				</div>
-				
-				/>
+		
 
 				<h3 className='lg:text-[10rem] uppercase lg:block drop-shadow-none opacity-25 -right-[65%] absolute bottom-[25%] hidden transform -rotate-90'>
 					Roadmap

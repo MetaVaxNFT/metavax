@@ -60,8 +60,10 @@ export default function FutureCollections() {
 							ecosystem within our website. This is where holders will
 							view and interact with their MetaVax NFTs.
 						</p>
-					
+												
 								<Button
+									<div className='flex-center flex-col'>
+
 									txt='whitepaper'
 									link='https://metavax-nft.gitbook.io/metavax/metavax-overview/roadmap'
 								/>

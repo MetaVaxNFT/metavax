@@ -70,7 +70,10 @@ export default function FutureCollections() {
 									<li>Research level of your Booster Shot</li>
 									
 								</ul>
-							</div>
+							
+								
+								
+								</div>
 							<div className='flex-center flex-col'>
 								<Button
 									txt='whitepaper'
